@@ -1,6 +1,10 @@
 // TODO: Select the existing DOM element, <div id="root">, and assign to a new variable
 // Hint: Visit the documentation https://api.jquery.com/
 
+var rootElement = $('#root');
+
+
+
 // TODO: Create a `<p>` element that will store an author's name and assign that created element to a new variable
 
 // TODO: Add the following text to the newly created `<p>` element: "~ Carol Dweck"
